@@ -1,6 +1,16 @@
 # A02
 
-First, install Git and create a GitHub account. When creating a new project on your local machine using git, you'll first create a new repository. Add a new file to the project, using any text editor you like or running a touch command. `touch newfile.txt` just creates and saves a blank file named newfile.txt. Add a file to the staging environment using the git add command. Run the command git commit -m "Your message about the commit". Finally, create a new branch. On GitHub.com, navigate to the main page of the repository, and run git checkout -b <my branch name>. This command will automatically create a new branch and then 'check you out' on it, meaning git will move you to that branch, off of the primary branch.
+First, install Git and create a GitHub account. When creating a new project on your local machine using git, you'll first create a new repository. 
+Add a new file to the project, using any text editor you like or running a touch command. `touch newfile.txt` just creates and saves a blank file named newfile.txt. Add a file to the staging environment using the git add command. 
+Run the command git commit -m "Your message about the commit". 
+Finally, create a new branch. On GitHub.com, navigate to the main page of the repository, and run git checkout -b <my branch name>. This command will automatically create a new branch and then 'check you out' on it, meaning git will move you to that branch, off of the primary branch.
+
+VScode Directions
+First, Download VScode and complete the installation
+Second, Customize your settings to your preference
+Third, Add the necessary extensions for your project. 
+Fourth, create a file with the proper filename and extension. Ex. .py-python , .js-javascript
+Fifth, Start coding
 
 
 
